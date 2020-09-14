@@ -32,6 +32,7 @@ tests_require = [
     "moto~=1.3.7",
     "testfixtures~=4.10.0",
     "flake8-future-import",
+    "docker"
 ]
 
 scripts = [
